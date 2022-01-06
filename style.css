@@ -7,6 +7,7 @@ body{
      width: 5px;
      height: 140px;
      margin-top: 70px;
+     border-radius: 10px;
  }
 .mission-color{
      color: coral;
@@ -58,7 +59,7 @@ p{
      background-color: rgb(36, 218, 105);
      border-radius: 10px;
      padding: 20px;
-     margin-left: 100px;
+     margin-left: 150px;
 
 }
 .vission{
@@ -67,7 +68,7 @@ p{
      background-color: aqua;
      border-radius: 10px;
      padding: 20px;
-     margin-left: 280px;
+     margin-left: 220px;
 }
 .Goals{
      height: 350;
@@ -75,7 +76,7 @@ p{
      background-color: rgb(211, 211, 32);
      border-radius: 10px;
      padding: 20px;
-    margin-left: 280px;
+    margin-left: 220px;
 }
 .develop{
      padding-left: 80px;
@@ -102,4 +103,36 @@ span{
 }
 .fontstyle{   
      font-family: 'Courier New', Courier, monospace;
+}
+.ectrawork{
+    text-align: center;
+    height: 300px;
+    width: 750px;
+    margin-left: 580px;
+}
+.extrawork1{
+    height: 300px;
+    width: 500px;
+    margin-left: 240px;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 150px;
+    border-radius: 10px;
+    background-color: wheat;
+    padding: 10px;
+}
+.fontsize{
+    font-size: 30px;
+}
+.textaline{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.lastbatton{
+    text-decoration: none;
+    border: solid rgb(39, 38, 38) 3px;
+    border-radius: 30px;
+    color: white;
+    background-color: palevioletred;
+    padding: 10px 40px;
 }
