@@ -1,0 +1,54 @@
+body{
+     font-family: 'Poppins', sans-serif;
+}
+.mission-2022{
+     display: flex;
+}
+
+ .line{
+     background-color: coral;
+     width: 5px;
+     height: 140px;
+     margin-top: 70px;
+ }
+.mission-color{
+     color: coral;
+     margin-top: 3px;
+     margin-left: 2px;
+     font-size: 60px;
+}
+.h1mirg{
+    
+     margin-bottom: 2px;
+     margin-left: 2px;
+     font-size: 60px;
+}
+.button{
+     text-decoration: none;
+     border: solid none;
+     border-radius:5px;
+     background-image: linear-gradient(red, Yellow );
+     color: white;
+     padding: 10px 30px;
+}
+.half-display{
+    width: 50%;
+}
+img{
+     width: 700px;
+     height: 700px;
+     margin-left: 35px;
+     margin-bottom: 20px;
+}
+section{
+    display: flex;
+    padding: 100px;
+    margin-left: 15px;
+}
+p{
+    color: gray;
+    margin-top: 20px;
+}
+.marjim{
+    margin-top: 100px;
+}
