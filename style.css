@@ -1,10 +1,7 @@
 body{
      font-family: 'Poppins', sans-serif;
+     margin: 0;
 }
-.mission-2022{
-     display: flex;
-}
-
  .line{
      background-color: coral;
      width: 5px;
@@ -34,21 +31,75 @@ body{
 .half-display{
     width: 50%;
 }
-img{
+.classimg{
      width: 700px;
      height: 700px;
      margin-left: 35px;
      margin-bottom: 20px;
 }
-section{
-    display: flex;
-    padding: 100px;
-    margin-left: 15px;
+.mainsection{
+     display: flex;
+     padding: 100px;
+     margin-left: 15px;
 }
 p{
-    color: gray;
-    margin-top: 20px;
+     color: gray;
+     margin-top: 20px;
 }
 .marjim{
-    margin-top: 100px;
+     margin-top: 100px;
+}
+.second-half-display{
+     display: flex;
+}
+.mission{
+     height: 350px;
+     width: 350px;
+     background-color: rgb(36, 218, 105);
+     border-radius: 10px;
+     padding: 20px;
+     margin-left: 100px;
+
+}
+.vission{
+     height: 350px;
+     width: 350px;
+     background-color: aqua;
+     border-radius: 10px;
+     padding: 20px;
+     margin-left: 280px;
+}
+.Goals{
+     height: 350;
+     width: 350px;
+     background-color: rgb(211, 211, 32);
+     border-radius: 10px;
+     padding: 20px;
+    margin-left: 280px;
+}
+.develop{
+     padding-left: 80px;
+     padding-top: 100px;
+}
+span{
+     color: coral;
+}
+.my-mission{
+     text-align: center;
+     margin-top: 15px;
+}
+.iconimg{
+     width: 100px;
+     height: 100px;
+}
+.footer{
+     width: 100%;
+     height: 100px;
+     color: white;
+     background-color: black;
+     text-align: center;
+     padding: 15px;
+}
+.fontstyle{   
+     font-family: 'Courier New', Courier, monospace;
 }
